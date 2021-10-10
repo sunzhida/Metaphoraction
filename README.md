@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Metaphoraction
+> Support Gesture-based Interaction Design with Metaphorical Meanings
+
+Zhida Sun, Sitong Wang, Chengzhong Liu, Xiaojuan Ma, Metaphoraction: Support Gesture-based Interaction Design with Metaphorical Meanings, ACM Transactions on Computer-Human Interaction (TOCHI), Minor Revision
 
 ![](images/interface.jpg)
 
