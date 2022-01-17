@@ -41,9 +41,9 @@ Zhida Sun, Sitong Wang, Chengzhong Liu, and Xiaojuan Ma, Metaphoraction: Support
     If everything is OK, you will see that the app is running on `http://0.0.0.0:5000/`
     Then you can type the link `http://127.0.0.1:5000/` to your local web browser (Chrome recommended) to explore Metaphoraction.
 
-5. Please feel free to leave comments on your experience when using Metaphoraction or any suggestions to improve this tool.
+5. Please feel free to leave comments on your experience when using Metaphoraction or give any suggestions to improve this tool.
 You are also welcome to contribute your code by modifying or adding functions to Metaphoraction.
-Please note that do not spread the code outside the class because this tool is currently under review.
+
 
 ### Support or Contact
 
