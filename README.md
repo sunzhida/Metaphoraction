@@ -47,4 +47,4 @@ Please note that do not spread the code outside the class because this tool is c
 
 ### Support or Contact
 
-Having trouble with the code? Check out our [paper]() or [contact the author](sunzhida@outlook.com).
+Having trouble with the code? Check out our [paper]()/[project page](https://zhdsun.github.io/projects/mim/) or [contact the author](sunzhida@outlook.com).
