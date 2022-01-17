@@ -47,4 +47,4 @@ You are also welcome to contribute your code by modifying or adding functions to
 
 ### Support or Contact
 
-Having trouble with the code? Check out our [paper]()/[project page](https://zhdsun.github.io/projects/mim/) or [contact the author](sunzhida@outlook.com).
+Having trouble with the code? Check out our [paper]()/[project page](https://zhdsun.github.io/projects/mim/) or [contact the author](https://zhdsun.github.io/).
